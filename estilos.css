@@ -1,0 +1,60 @@
+header {
+background-color: #006533;
+color: #000000;
+font-size:x-large;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font-variant: small-caps;
+}
+
+main {
+background-color:whitesmoke
+
+}
+
+h1{
+color: #94c020;
+background-color: #006533;
+
+}
+
+
+
+.pecana {
+    width:200px ;height: 200px;
+}
+
+.pecanaheader{
+    width:80px ;height: 80px;
+
+}
+
+p {
+    text-align:justify
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+
+.centrado{
+    position:absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-80%, -50%);
+    font-size:250%;
+}
+
+.fondo {
+    width:148%; height:max-content;
+}
+
+.social {
+    width: 150px; height: 50px;
+}
